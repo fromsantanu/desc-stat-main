@@ -2,7 +2,7 @@
 
 ## Table of Content
 - [**Topic 01** - Basic Concepts of Descriptive Statistics](https://github.com/fromsantanu/desc-stat-main/blob/main/pages/p01.md)
-- [**Topic 02** - Understanding of Distribution](https://github.com/fromsantanu/desc-stat-main/blob/main/pages/p02.md)
+- [**Topic 02** - Understanding Distribution](https://github.com/fromsantanu/desc-stat-main/blob/main/pages/p02.md)
 - [**Topic 03** - Types of Distributions](https://github.com/fromsantanu/desc-stat-main/blob/main/pages/p03.md)
 - [**Topic 04** - Understanding Kurtosis](https://github.com/fromsantanu/desc-stat-main/blob/main/pages/p04.md)
 - [**Topic 05** - Standardization](https://github.com/fromsantanu/desc-stat-main/blob/main/pages/p05.md)
